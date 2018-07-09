@@ -1,0 +1,59 @@
+.but {
+	margin-top: 1%;
+	margin-left: 89%;
+}
+
+#formulaire {
+	text-align: center;
+	margin-top: 15%;
+}
+
+
+#bobo {
+	background-image:url(phone3.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#body {
+		color: grey;
+}
+
+
+#num {
+	margin-bottom: 128px;
+}
+
+.btn-circle.btn-xl {
+    width: 30px;
+    height: 30px;
+    padding: 5px 5px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+    margin-left: 26px;
+    margin-right: 26px;
+    background-color: grey;
+    border-color: black;
+    }
+
+
+#send {
+    background-image:url(send.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	}
+
+#body2 {
+	color: white;
+	background-color:	#696969;
+	background-image:url(marbre.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	text-shadow: 2px 2px 2px black;
+}
+
